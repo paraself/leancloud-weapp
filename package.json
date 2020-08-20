@@ -1,0 +1,23 @@
+{
+  "name": "leancloud-weapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paraself/leancloud-weapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paraself/leancloud-weapp/issues"
+  },
+  "homepage": "https://github.com/paraself/leancloud-weapp#readme",
+  "dependencies": {
+    "leancloud-storage": "^4.6.1"
+  },
+  "types": "./node_modules/leancloud-storage/storage.d.ts"
+}
