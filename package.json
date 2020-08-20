@@ -16,11 +16,12 @@
     "url": "https://github.com/paraself/leancloud-weapp/issues"
   },
   "homepage": "https://github.com/paraself/leancloud-weapp#readme",
-  "dependencies": {
-    "leancloud-storage": "^4.6.1"
-  },
-  "types": "./node_modules/leancloud-storage/storage.d.ts",
+  "dependencies": {},
+  "types": "leancloud-storage/storage.d.ts",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
+  },
+  "devDependencies": {
+    "leancloud-storage": "^4.6.1"
   }
 }
