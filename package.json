@@ -19,5 +19,8 @@
   "dependencies": {
     "leancloud-storage": "^4.6.1"
   },
-  "types": "./node_modules/leancloud-storage/storage.d.ts"
+  "types": "./node_modules/leancloud-storage/storage.d.ts",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
 }
